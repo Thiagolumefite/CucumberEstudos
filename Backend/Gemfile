@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+gem 'cucumber-api'
+gem 'gherkin'
+gem 'httparty'
+gem 'json'
+gem 'rails'
