@@ -7,8 +7,8 @@
 Seguir os passos abaixo:
 	
 - Acessar a url https://rubyinstaller.org/downloads/
-- Baixar o **instalador** e o **Development Kit** do Ruby (Obs: a versão deve ser >= 1.9.3 e <= 2.1.0)
-- Executar o instalador (no instalador selecione todas as opções do checkbox)
+- Baixar o **instalador 2.3** Executar o instalador (no instalador selecione todas as opções do checkbox)
+- Baixar o o **Development Kit** do Ruby (Obs: a versão deve ser >= 2.0 e <= 2.3) Instalar/Extrair em C:\WebkitRuby
 - gem Intall Bundler
 ### Instalação Development Kit
 
